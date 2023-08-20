@@ -2,7 +2,8 @@
   "name": "ts-server-setup",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "bin": "./bin/cli/js",
+  "main": "index.ts",
   "publishConfig": {
     "access": "public"
   },
