@@ -1,7 +1,7 @@
 {
   "name": "ts-server-setup",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "a simple typescript and express setup",
   "bin": "./bin/cli/js",
   "main": "index.ts",
   "publishConfig": {
@@ -22,5 +22,9 @@
   },
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alymond/typescript-server-setup.git"
   }
 }
