@@ -9,7 +9,4 @@ A simple way to get your express server set up with typescript
 - ts-node
 
 
-```
-npx ts-server-setup my-project
-```
-
+working atm in making this a npm package

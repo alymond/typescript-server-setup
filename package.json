@@ -2,8 +2,7 @@
   "name": "ts-server-setup",
   "version": "1.0.7",
   "description": "a simple typescript and express setup",
-  "bin": "./bin/cli.js",
-  "main": "index.ts",
+  "main": "index.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
