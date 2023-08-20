@@ -3,7 +3,6 @@
   "version": "1.0.7",
   "description": "a simple typescript and express setup",
   "main": "index.js",
-  "type": "module",
   "publishConfig": {
     "access": "public"
   },
